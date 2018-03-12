@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.7ec65560.js",
-  "main.js.map": "static/js/main.7ec65560.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.e948f85e.css",
+  "main.css.map": "static/css/main.e948f85e.css.map",
+  "main.js": "static/js/main.b0a25b66.js",
+  "main.js.map": "static/js/main.b0a25b66.js.map",
+  "static/media/bkgd-square-pattern.png": "static/media/bkgd-square-pattern.dfd53f60.png",
+  "static/media/creation_basin.png": "static/media/creation_basin.a485d334.png",
+  "static/media/down-arrow-glow.png": "static/media/down-arrow-glow.6296bc16.png",
+  "static/media/down-arrow.png": "static/media/down-arrow.f2428cca.png",
+  "static/media/redux_logo.png": "static/media/redux_logo.2309c5e4.png",
+  "static/media/woof_walks.png": "static/media/woof_walks.4fd623eb.png"
 }
