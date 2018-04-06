@@ -1,6 +1,6 @@
 {
-  "main.css": "static/css/main.a16217ee.css",
-  "main.css.map": "static/css/main.a16217ee.css.map",
+  "main.css": "static/css/main.c128fbf3.css",
+  "main.css.map": "static/css/main.c128fbf3.css.map",
   "main.js": "static/js/main.81cedea7.js",
   "main.js.map": "static/js/main.81cedea7.js.map",
   "static/media/bkgd-square-pattern.png": "static/media/bkgd-square-pattern.dfd53f60.png",
@@ -8,5 +8,5 @@
   "static/media/down-arrow-glow.png": "static/media/down-arrow-glow.6296bc16.png",
   "static/media/down-arrow.png": "static/media/down-arrow.f2428cca.png",
   "static/media/redux_logo.png": "static/media/redux_logo.2309c5e4.png",
-  "static/media/woof_walks.png": "static/media/woof_walks.4fd623eb.png"
+  "static/media/woof_walks.jpg": "static/media/woof_walks.c5fdcb02.jpg"
 }
