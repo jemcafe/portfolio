@@ -1,11 +1,18 @@
 {
   "main.css": "static/css/main.8e1a6e5e.css",
   "main.css.map": "static/css/main.8e1a6e5e.css.map",
-  "main.js": "static/js/main.be34498c.js",
-  "main.js.map": "static/js/main.be34498c.js.map",
+  "main.js": "static/js/main.26df5eb4.js",
+  "main.js.map": "static/js/main.26df5eb4.js.map",
   "static/media/bkgd-square-pattern.png": "static/media/bkgd-square-pattern.dfd53f60.png",
   "static/media/down-arrow-glow.png": "static/media/down-arrow-glow.6296bc16.png",
   "static/media/down-arrow.png": "static/media/down-arrow.f2428cca.png",
   "static/media/redux_logo.png": "static/media/redux_logo.2309c5e4.png",
+  "static/media/shot_01.jpg": "static/media/shot_01.729e4725.jpg",
+  "static/media/shot_02.jpg": "static/media/shot_02.e88ccf2e.jpg",
+  "static/media/shot_03.jpg": "static/media/shot_03.c317b06a.jpg",
+  "static/media/shot_04.jpg": "static/media/shot_04.23dd2ec4.jpg",
+  "static/media/shot_05.jpg": "static/media/shot_05.f0fab3b9.jpg",
+  "static/media/shot_06.jpg": "static/media/shot_06.712d451f.jpg",
+  "static/media/shot_07.jpg": "static/media/shot_07.c10b2f37.jpg",
   "static/media/thumb.jpg": "static/media/thumb.c5fdcb02.jpg"
 }
